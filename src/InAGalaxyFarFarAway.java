@@ -1,5 +1,14 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Shawn Chappelle
+ *
+ * @since Version 1.0
+ *
+ */
 public class InAGalaxyFarFarAway {
     /**
+     * Shawn Chappelle 8/28/2022
      * Prints a famous Star Wars intro to the console with 3 souts.
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
